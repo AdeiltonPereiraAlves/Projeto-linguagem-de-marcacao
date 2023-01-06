@@ -71,6 +71,9 @@ img{
     
     padding:15px;
 }
+#menu ul li a:active{
+    color: aqua;
+}
 #img{
     align-content: center;
    
