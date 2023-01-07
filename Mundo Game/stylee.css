@@ -79,32 +79,7 @@ img{
    
 
 }
-#buscar{
-    display: inline;
-    justify-content: right;
-    align-items: initial;
-}
- 
-#txtbuscar{
-    display: flex;
-    background-color:#010e1f;
-    padding: left 10px;
-    font-size:18px;
-    border:none;
-    height:32px;
-    width:191px;
-}
-#btbuscar{
-   
-        border:none;
-        float:left;
-        height:32px;
-        border-radius:0 7px 7px 0;
-        width:70px;
-        font-weight:bold;
-        background:#5F9EA0;
-        padding-left: 20px;
-}
+
 
 body{
     background-color:#010e1f;
@@ -128,8 +103,8 @@ body{
   }
 #pokemon{
     background-color: aliceblue;
-    width:800px;
-    padding: 10px;
+    width:900px;
+    padding: 20px;
     margin: auto;
     box-shadow: 5px 5px 15px black;
 }
