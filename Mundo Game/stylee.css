@@ -49,7 +49,7 @@ img{
   
     color: aliceblue;
     font-size: sans-serif;
-   
+    
    
     padding: 10px;
     display: inline-block;
@@ -101,12 +101,23 @@ body{
     margin-top: 10px;
     padding: 10px;
   }
-#pokemon{
-    background-color: aliceblue;
+main{
+    background-color: rgb(255, 255, 255);
     width:900px;
     padding: 20px;
     margin: auto;
     box-shadow: 5px 5px 15px black;
+    margin-top: 0px;
+
+    
+}
+
+#destaque>h1{
+    background-color: #0e1b2c;
+    color: rgb(59, 75, 218);
+    margin-top: 0%;
+    padding:20px;
+    border: black;
 }
 .textopokemon{
     text-justify: auto;
@@ -136,7 +147,9 @@ h1{
     font-size: sans-serif;
     padding: 20px;
     margin-top: 0px;
+    text-decoration: none;
 }
+
 #videopubg{
     display: flex;
     justify-content: center;
@@ -146,6 +159,7 @@ h1{
 h3,li{
     font-size: sans-serif;
     margin-top: 300px;
+    text-decoration: none;
 }
 #imagemred{
 
@@ -169,6 +183,7 @@ h3,li{
     margin: auto;
     border-radius: 10px;
     box-shadow: 5px 5px 15px black ;
+    list-style: none;
 }
 li{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
