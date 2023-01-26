@@ -6,6 +6,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 img{
     margin-top: 30px;
     display: flex;
@@ -68,7 +69,7 @@ img{
 }
 #menu ul li a:hover{
     color: rgb(214, 214, 226);
-    
+    cursor: pointer;
     padding:15px;
 }
 #menu ul li a:active{
@@ -103,7 +104,10 @@ body{
   }
 main{
     background-color: rgb(255, 255, 255);
-    width:900px;
+
+    min-width: 320px;
+    max-width: 900px;
+    
     padding: 20px;
     margin: auto;
     box-shadow: 5px 5px 15px black;
@@ -115,7 +119,7 @@ main{
 #destaque>h1{
     background-color: #0e1b2c;
     color: rgb(59, 75, 218);
-    margin-top: 0%;
+    margin-top: 0% -20px;
     padding:20px;
     border: black;
 }
@@ -240,4 +244,20 @@ form{
 }
 #butao:hover{
    background-color: #0e1b2c;
+   cursor: pointer;
 }
+.buscar{
+    margin-bottom: 40px;
+ 
+
+}
+input#busca{
+    width: 300px;
+    height: 40px;
+    padding-bottom: 5px;
+    margin:auto;
+    margin-bottom: 40px;
+
+   
+}
+    
