@@ -146,12 +146,7 @@ body{
     
 
 }
-#pokemonimagem {
-    margin-top: 150px;
-    display: flex;
-    justify-content: center;
-  }
-  
+
  
 
 main{
@@ -178,19 +173,7 @@ main{
     border: black;
     border-radius: 5px;
 }
-.textopokemon{
-    text-justify: auto;
-    text-align: center;
-    width: 100%;
-    height: 50%;
-    
-}
 
-#pokemonvideo{
-    display: flex;
-    justify-content: center;
-
-}
 
 
 
@@ -216,12 +199,7 @@ h3,li{
     margin-top: 10px;
     text-decoration: none;
 }
-#imagemred{
 
-    display: flex;
-    margin-top: 20px;
-    padding: 20px;
-}
 
 
 
