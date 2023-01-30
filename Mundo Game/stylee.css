@@ -27,8 +27,15 @@ img{
     margin-bottom: -30px;
 }
 
-
-
+#destaque{
+    background-color: #0e1b2c;
+    color: rgb(59, 75, 218);
+    margin: 10px -20px;
+    padding:20px;
+    border: black;
+    border-radius: 5px;
+    margin-top: 160px;
+}
 
 
 
@@ -81,6 +88,8 @@ img{
 .menu ul li a:active{
     color: aqua;
 }
+
+
 .buscar{
     
     max-width:360px;
