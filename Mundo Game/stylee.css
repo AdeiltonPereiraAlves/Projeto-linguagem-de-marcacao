@@ -24,15 +24,6 @@ img{
     margin-bottom: -30px;
 }
 
-#destaque{
-    background-color: #0e1b2c;
-    color: rgb(59, 75, 218);
-    margin: 10px -20px;
-    padding:20px;
-    border: black;
-    border-radius: 5px;
-    margin-top: 160px;
-}
 
 
 
@@ -170,13 +161,8 @@ h1{
     text-decoration: none;
 }
 
-#videopubg{
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-    padding: 20px;
-}
-h3,li{
+
+h3{
     font-size: sans-serif;
     margin-top: 10px;
     text-decoration: none;
