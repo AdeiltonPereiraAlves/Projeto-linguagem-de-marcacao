@@ -192,9 +192,10 @@ label{
     padding:5px;
     color: aliceblue;
     
+    
 }
 input{
-    height: 50px;
+    width: 250px;
     height: 30px;
     display: block;
     padding-right: 0%;
@@ -272,4 +273,7 @@ div.videos{
    min-width: -280px;
    max-width: 150px;
    margin: auto;
+}
+footer{
+    display: block;
 }
