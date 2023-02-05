@@ -210,6 +210,7 @@ p{
 label{
     display: block;
     padding:5px;
+    color: aliceblue;
     
 }
 input{
@@ -225,15 +226,13 @@ input{
     width: 300px;
     height: 350px;
     background-color: #010e1f;
-    margin-top: 20px;
+    margin-top: 50px;
     border-radius: 10px;
     font-family: Arial, Helvetica, sans-serif;
    
     
 }
-hr{
-    margin-top: 20px;
-}
+
 form{
     width: 300px;
     height: 200px;
